@@ -1,0 +1,2 @@
+('Dipanshu Singh', '8978979654', 'Male', '9696969696', 'Cash', 1)
+('Dharmendra Singh', '9787698976', 'Male', '9878398722', 'Gpay', 1)
